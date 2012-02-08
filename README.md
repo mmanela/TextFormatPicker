@@ -1,4 +1,3 @@
-
 TextFormatPicker for Visual Studio
 ================================
 
